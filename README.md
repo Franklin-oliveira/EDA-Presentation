@@ -7,9 +7,9 @@ Repositório da apresentação sobre Programação Dinâmica da disciplina de Es
 
 ## Lista de Arquivos
 
-> - Dynamic Programming I.pdf: Slides usados na apresentação.
-> - Lab_Dymanic_Programming.ipynb: Notebook usado para exemplificar a implementação dos algoritmos.
-> - Lab_Dymanic_Programming_Solution.ipynb: Notebook com as soluções dos exercícios.
+> - **Dynamic Programming I.pdf:** Slides usados na apresentação.
+> - **Lab_Dymanic_Programming.ipynb:** Notebook usado para exemplificar a implementação dos algoritmos.
+> - **Lab_Dymanic_Programming_Solution.ipynb:** Notebook com as soluções dos exercícios.
 
 ## O que aprendi?
 
